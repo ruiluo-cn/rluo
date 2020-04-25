@@ -13,4 +13,4 @@ redirect_from:
 
 E-mail: *Gerin.Tang@my.cityu.edu.hk*; *GerineTang@whu.edu.cn*
 
-<p align="right"> *Last Update: 2020.4.25* </p>
+<p align="right"> Last Update: 2020.4.25 </p>
