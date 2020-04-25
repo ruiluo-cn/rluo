@@ -18,7 +18,7 @@ Research Topic: Unsupervised/semi-supervised learning, transfer learning, machin
 ### 2017-2019
 M.Eng in Integrated Circuit Engineering, Wuhan Univeristy, China  
 Supervisor: [Prof. Sheng Chang](https://faculty.whu.edu.cn/show.jsp?n=Sheng%20Chang&lang=cn)  
-Research Topic: neuromorphic computing and digital IC design  
+Research Topic: Neuromorphic computing and digital IC design  
 
 ### 2013-2017
 B.Sc in Microelectronics Science and Engineering, Wuhan University, China  
