@@ -7,7 +7,7 @@ main:
 
   - title: "Publications"
 #     url: pub/
-    url: publ/
+    url: pub/
 
   - title: "Awards"
     url: awards/    
