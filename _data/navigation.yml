@@ -2,10 +2,10 @@
 main:
 
   - title: "Education"
-    url: cv/     
+    url: edu/     
     
   - title: "Publications"
-    url: pub/
+    url: pub1/
 
   - title: "Awards"
     url: awards/    
