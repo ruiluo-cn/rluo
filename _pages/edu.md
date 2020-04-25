@@ -13,7 +13,7 @@ redirect_from:
 ### 2019.9-
 Ph.D in Computer Science, City University of Hong Kong, Hong Kong  
 Supervisor: [Dr. Hau-San Wong](https://scholars.cityu.edu.hk/en/persons/hau-san-wong(d4881758-8e9f-4218-b2b5-ad33ebb52a3c).html)  
-Research Topic: Machine learning algorithms (mainly unsupervised/semi-supervised learning and transfer learning) and its applications  
+Research Topic: Machine learning algorithms and its applications  
 
 ### 2017.9-2019.6
 M.Eng in Integrated Circuit Engineering, Wuhan Univeristy, China  
