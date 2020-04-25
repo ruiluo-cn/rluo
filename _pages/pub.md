@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Five Representative Publications in Recent Five Years
+## Five Representative Publications in Recent Five Years
 
 [1] Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status  [[Link](https://ieeexplore.ieee.org/abstract/document/9043894)]  
 &nbsp;&nbsp;&nbsp;&nbsp; Edmond Q. Wu, Dewen Hu, Ping-Yu Deng, **Zhiri Tang**, Yulian Cao, Wen-Ming Zhang, Li-Min Zhu, He Ren  
