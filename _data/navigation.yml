@@ -2,14 +2,14 @@
 main:
 
   - title: "Education"
-    url: /cv/     
+    url: cv/     
     
   - title: "Publications"
-    url: /pub/
+    url: pub/
 
   - title: "Awards"
-    url: /awards/    
-
+    url: awards/    
+    
 #   - title: "Teaching"
 #     url: /teaching/    
     
