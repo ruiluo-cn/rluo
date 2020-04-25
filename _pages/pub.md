@@ -9,17 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-### Selected Publications
-*(Note: Zhiri Tang acts as first/corresponding author in all the below works and full list is shown in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EA6cp5IAAAAJ&view_op=list_works&authuser=2))* 
+### Five Representative Publications in Recent Five Years
 
+[1] Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status  
+&nbsp;&nbsp;&nbsp;&nbsp; **IEEE Transactions on Cybernetics**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894)]
+
+[2] Detecting Fatigue Status of Pilots Based on Deep Learning Network Using EEG Signals  
+&nbsp;&nbsp;&nbsp;&nbsp; **IEEE Transactions on Cognitive and Developmental Systems**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/8948246/)]
 
 [3] Fully Memristive Spiking-Neuron Learning Framework and its Applications on Pattern Recognition and Edge Detection  
 &nbsp;&nbsp;&nbsp;&nbsp; **Neurocomputing**, 2020. [[Link](https://arxiv.org/abs/1901.05258)]
 
-
-[2] Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status  
-&nbsp;&nbsp;&nbsp;&nbsp; **IEEE Transactions on Cybernetics**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894)]
-
-
-[1] A Hardware Friendly Unsupervised Memristive Neural Network with Weight Sharing Mechanism  
+[4] A Hardware Friendly Unsupervised Memristive Neural Network with Weight Sharing Mechanism  
 &nbsp;&nbsp;&nbsp;&nbsp; **Neurocomputing**, 2019. [[Link](https://arxiv.org/abs/1901.00100)]
