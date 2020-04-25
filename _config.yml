@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN"
-title                    : "Zhiri Tang / Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhiri Tang"
 description              : &description "Ph.D Candidate in Computer Science"
