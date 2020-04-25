@@ -13,4 +13,5 @@ redirect_from:
 *(Note: Zhiri Tang acts as first/corresponding author in all the below works and full list is shown in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EA6cp5IAAAAJ&view_op=list_works&authuser=2))* 
 
 
-[1] 
+[1] A Hardware Friendly Unsupervised Memristive Neural Network with Weight Sharing Mechanism
+\quad Neurocomputing, 2019.
