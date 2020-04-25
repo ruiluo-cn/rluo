@@ -14,4 +14,4 @@ redirect_from:
 
 
 [1] A Hardware Friendly Unsupervised Memristive Neural Network with Weight Sharing Mechanism  
-&nbsp; Neurocomputing, 2019.
+&nbsp;&nbsp; *Neurocomputing*, 2019.
