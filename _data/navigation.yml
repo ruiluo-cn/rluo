@@ -4,9 +4,10 @@ main:
   - title: "Education"
     url: edu/     
 
-# 如果希望正常显示publication，就把下面的url解除注释
+
   - title: "Publications"
 #     url: pub/
+    url: publ/
 
   - title: "Awards"
     url: awards/    
