@@ -11,7 +11,7 @@ redirect_from:
 
 ## Five Representative Publications in Recent Five Years
 
-[1] Edmond Q. Wu, Dewen Hu, Ping-Yu Deng, Zhiri Tang, Yulian Cao, Wen-Ming Zhang, Li-Min Zhu, He Ren, "Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status", **IEEE Transactions on Cybernetics**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894)]
+* Edmond Q. Wu, Dewen Hu, Ping-Yu Deng, Zhiri Tang, Yulian Cao, Wen-Ming Zhang, Li-Min Zhu, He Ren, "Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status", **IEEE Transactions on Cybernetics**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894)]
 
 [1]     
 &nbsp;&nbsp;&nbsp;&nbsp;   
