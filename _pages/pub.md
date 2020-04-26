@@ -11,6 +11,10 @@ redirect_from:
 
 ## Five Representative Publications in Recent Five Years
 
+
+*(The full list is shown in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EA6cp5IAAAAJ&view_op=list_works&authuser=2&gmla=AJsN-F58kXzr5-b6ReiqUsbWT2KWW9UaRSGLIzrtlH7rWpQtqr-odnRZtPIrf383csWXnKs19A0OsE2Iiy2cIIPccw2M0Iny-9YwzQyL_n-vrOkiujrYh5k&sciund=3076667535896797869&gmla=AJsN-F4eA5tCEIVGilxHHHdz-nGnoMA9Co89wXXtS8DA6nUBKiD0D8HfsZ0iDFhjw_f6AnxkBP2GTLAWrVPXVnPzqpcPO_jNcpAIiVtGaCDKH9zbv8g53U8&sciund=313206828280040403))*
+
+
 * Edmond Q. Wu, Dewen Hu, Ping-Yu Deng, Zhiri Tang, Yulian Cao, Wen-Ming Zhang, Li-Min Zhu, He Ren, "Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status", **IEEE Transactions on Cybernetics**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894)]
 
 
@@ -26,4 +30,3 @@ redirect_from:
 * Edmond Q. Wu, Ping-Yu Deng, Xu-Yi Qiu, Zhiri Tang, Wen-Ming Zhang, Li-Min Zhu, He Ren, Gui-Rong Zhou, Richard S. F. Sheng, "Detecting Fatigue Status of Pilots Based on Deep Learning Network Using EEG Signals", **IEEE Transactions on Cognitive and Developmental Systems**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/8948246/)]
 
 
-*(The full list is shown in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EA6cp5IAAAAJ&view_op=list_works&authuser=2&gmla=AJsN-F58kXzr5-b6ReiqUsbWT2KWW9UaRSGLIzrtlH7rWpQtqr-odnRZtPIrf383csWXnKs19A0OsE2Iiy2cIIPccw2M0Iny-9YwzQyL_n-vrOkiujrYh5k&sciund=3076667535896797869&gmla=AJsN-F4eA5tCEIVGilxHHHdz-nGnoMA9Co89wXXtS8DA6nUBKiD0D8HfsZ0iDFhjw_f6AnxkBP2GTLAWrVPXVnPzqpcPO_jNcpAIiVtGaCDKH9zbv8g53U8&sciund=313206828280040403))*
