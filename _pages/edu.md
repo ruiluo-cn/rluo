@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-### 2019.9-
+### 2019.9-2023.6 (Expected)
 Ph.D in Computer Science, City University of Hong Kong, Hong Kong  
 Supervisor: [Dr. Hau-San Wong](https://scholars.cityu.edu.hk/en/persons/hau-san-wong(d4881758-8e9f-4218-b2b5-ad33ebb52a3c).html)  
 Research Field: Machine learning algorithms and its applications  
