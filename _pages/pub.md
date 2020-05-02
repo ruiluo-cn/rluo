@@ -25,5 +25,3 @@ Here are five representative papers in recent five years. The full list of my wo
 
 
 * Edmond Q. Wu, Ping-Yu Deng, Xu-Yi Qiu, Zhiri Tang, Wen-Ming Zhang, Li-Min Zhu, He Ren, Gui-Rong Zhou, Richard S. F. Sheng, "Detecting Fatigue Status of Pilots Based on Deep Learning Network Using EEG Signals", **IEEE Transactions on Cognitive and Developmental Systems**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/8948246/)]
-
-
