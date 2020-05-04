@@ -18,7 +18,7 @@ Here are some of my favorite works in recent years. The full list of my works ca
 * Zhiri Tang, Yanhua Chen, Ruihan Hu, Hao Wang, Jin He, Qijun Huang, Sheng Chang, "Performance and Comparisons of STDP based and Non-STDP based Memristive Neural Networks on Hardware", **arXiv**, 2019. [[Link](https://arxiv.org/abs/1907.09126)] 
 
 
-* Zhiri Tang, Ruohua Zhu, Peng Lin, Jin He, Hao Wang, Qijun Huang, Sheng Chang, Qiming Ma, "A Hardware Friendly Unsupervised Memristive Neural Network with Weight Sharing Mechanism", **Neurocomputing**, 2019. [[Link](https://arxiv.org/abs/1901.00100)]  
+* Zhiri Tang, Ruohua Zhu, Peng Lin, Jin He, Hao Wang, Qijun Huang, Sheng Chang, Qiming Ma, "A Hardware Friendly Unsupervised Memristive Neural Network with Weight Sharing Mechanism", **arXiv**, 2019. [[Link](https://arxiv.org/abs/1901.00100)]  
 
 
 * Shizhuo Ye, Yawei Lv, Zhiri Tang, Ruihan Hu, Ruohua Zhu, Zifeng Wang, Qijun Huang, Hao Wang, Jin He, Sheng Chang, "Wave-Function Symmetry Mechanism of Quantum-Well States in Graphene Nanoribbon Heterojunctions", **Physical Review Applied**, 2019. [[Link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044018)]
