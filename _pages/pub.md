@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here are some of my favorite works in recent years. The full list of my works can be found in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EA6cp5IAAAAJ&view_op=list_works&authuser=2&gmla=AJsN-F58kXzr5-b6ReiqUsbWT2KWW9UaRSGLIzrtlH7rWpQtqr-odnRZtPIrf383csWXnKs19A0OsE2Iiy2cIIPccw2M0Iny-9YwzQyL_n-vrOkiujrYh5k&sciund=3076667535896797869&gmla=AJsN-F4eA5tCEIVGilxHHHdz-nGnoMA9Co89wXXtS8DA6nUBKiD0D8HfsZ0iDFhjw_f6AnxkBP2GTLAWrVPXVnPzqpcPO_jNcpAIiVtGaCDKH9zbv8g53U8&sciund=313206828280040403).
+Here are some of my favorite works in recent years. The full list of my publications can be found in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=EA6cp5IAAAAJ&view_op=list_works&authuser=2&gmla=AJsN-F58kXzr5-b6ReiqUsbWT2KWW9UaRSGLIzrtlH7rWpQtqr-odnRZtPIrf383csWXnKs19A0OsE2Iiy2cIIPccw2M0Iny-9YwzQyL_n-vrOkiujrYh5k&sciund=3076667535896797869&gmla=AJsN-F4eA5tCEIVGilxHHHdz-nGnoMA9Co89wXXtS8DA6nUBKiD0D8HfsZ0iDFhjw_f6AnxkBP2GTLAWrVPXVnPzqpcPO_jNcpAIiVtGaCDKH9zbv8g53U8&sciund=313206828280040403).
 
 
 * Ruohua Zhu, Shizhuo Ye, Zhiri Tang, et al., "Influence of Compact Memristors’ Stability on Machine Learning", **IEEE Access**, 2019. [[Link](https://ieeexplore.ieee.org/abstract/document/8681524)]
