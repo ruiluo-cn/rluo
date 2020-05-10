@@ -20,7 +20,7 @@ Here are five representative works in recent five years:
 * Zhiri Tang, Ruohua Zhu, Peng Lin, et al., "A Hardware Friendly Unsupervised Memristive Neural Network with Weight Sharing Mechanism", **Neurocomputing**, 2019. [[Link](https://arxiv.org/abs/1901.00100)]  
 
 
-* Edmond Q. Wu, Dewen Hu, Ping-Yu Deng, et al., "Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status", **IEEE Transactions on Cybernetics**, 2020.
+* Edmond Q. Wu, Dewen Hu, Ping-Yu Deng, et al., "Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status", **IEEE Transactions on Cybernetics**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894/)]
 
 
 * Shizhuo Ye, Yawei Lv, Zhiri Tang, et al., "Wave-Function Symmetry Mechanism of Quantum-Well States in Graphene Nanoribbon Heterojunctions", **Physical Review Applied**, 2019. [[Link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044018)]
