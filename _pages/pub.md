@@ -12,10 +12,10 @@ redirect_from:
 Here are five representative works in recent five years:
 
 
-* Edmond Q. Wu, Dewen Hu, Ping-Yu Deng, et al., "Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status", **IEEE Transactions on Cybernetics**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894/)]
-
-
 * Zhiri Tang, Ruohua Zhu, Ruihan Hu, et al., "A Multilayer Neural Network Merging Image Preprocessing and Pattern Recognition by Integrating Diffusion and Drift Memristors", **IEEE Transactions on Cognitive and Developmental Systems**, 2020. [[Link](https://arxiv.org/abs/1904.12292)]
+
+
+* Edmond Q. Wu, Dewen Hu, Ping-Yu Deng, et al., "Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status", **IEEE Transactions on Cybernetics**, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894/)]
 
 
 * Zhiri Tang, Yanhua Chen, Ruihan Hu, et al., "Fully Memristive Spiking-Neuron Learning Framework and Its Applications on Pattern Recognition and Edge Detection", **Neurocomputing**, 2020. [[Link](https://arxiv.org/abs/1901.05258)] 
