@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*** Five representative works in recent five years
+### Five representative works in recent five years
 
 
 * Zhiri Tang, Ruohua Zhu, Ruihan Hu, et al., "A Multilayer Neural Network Merging Image Preprocessing and Pattern Recognition by Integrating Diffusion and Drift Memristors", **IEEE Transactions on Cognitive and Developmental Systems**, 2020. [[Link](https://arxiv.org/abs/1904.12292)]
