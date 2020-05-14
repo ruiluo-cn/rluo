@@ -9,19 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Representative Works
+## Selected Works
 
-* Zhiri Tang, et al., "A Multilayer Neural Network Merging Image Preprocessing and Pattern Recognition by Integrating Diffusion and Drift Memristors", *IEEE Transactions on Cognitive and Developmental Systems*, 2020. [[pdf](https://arxiv.org/ftp/arxiv/papers/1904/1904.12292.pdf)]
+* Zhiri Tang, et al., "A Multilayer Neural Network Merging Image Preprocessing and Pattern Recognition by Integrating Diffusion and Drift Memristors", *IEEE Transactions on Cognitive and Developmental Systems*, 2020. [[Link](https://arxiv.org/ftp/arxiv/papers/1904/1904.12292.pdf)]
 
 
 * Edmond Q. Wu, et al., "Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status", *IEEE Transactions on Cybernetics*, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894/)]
 
 
 * Edmond Q. Wu, et al., "Detecting Fatigue Status of Pilots Based on Deep Learning Network Using EEG Signals", *IEEE Transactions on Cognitive and Developmental Systems*, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/8948246)] 
-
-
-## Other Selected Works
-
-* Zhiri Tang, et al., "Fully Memristive Spiking-Neuron Learning Framework and Its Applications on Pattern Recognition and Edge Detection", *Neurocomputing*, 2020. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220305750)][[pdf](https://arxiv.org/ftp/arxiv/papers/1901/1901.05258.pdf)]
-
-* Zhiri Tang, et al., "A Hardware Friendly Unsupervised Memristive Neural Network with Weight Sharing Mechanism", *Neurocomputing*, 2019. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231218315078)][[pdf](https://arxiv.org/ftp/arxiv/papers/1901/1901.00100.pdf)]
