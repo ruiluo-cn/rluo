@@ -11,7 +11,7 @@ redirect_from:
 
 ## Selected Publications
 
-* Zhiri Tang, et al., "A Multilayer Neural Network Merging Image Preprocessing and Pattern Recognition by Integrating Diffusion and Drift Memristors", *IEEE Transactions on Cognitive and Developmental Systems*, 2020. [[pdf](https://arxiv.org/abs/1904.12292)]
+* Zhiri Tang, et al., "A Multilayer Neural Network Merging Image Preprocessing and Pattern Recognition by Integrating Diffusion and Drift Memristors", *IEEE Transactions on Cognitive and Developmental Systems*, 2020. [[pdf](https://arxiv.org/ftp/arxiv/papers/1904/1904.12292.pdf)]
 
 
 * Edmond Q. Wu, et al., "Nonparametric Bayesian Prior Inducing Deep Network for Automatic Detection of Cognitive Status", *IEEE Transactions on Cybernetics*, 2020. [[Link](https://ieeexplore.ieee.org/abstract/document/9043894/)]
