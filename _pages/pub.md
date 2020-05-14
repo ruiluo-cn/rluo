@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Selected Works
+## Selected Publications
 
 * Zhiri Tang, et al., "A Multilayer Neural Network Merging Image Preprocessing and Pattern Recognition by Integrating Diffusion and Drift Memristors", *IEEE Transactions on Cognitive and Developmental Systems*, 2020. [[Link](https://arxiv.org/ftp/arxiv/papers/1904/1904.12292.pdf)]
 
