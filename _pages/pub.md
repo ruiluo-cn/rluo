@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: 
-permalink: pub/
+permalink: publ/
+%% permalink: pub/
 author_profile: true
 redirect_from:
   - /resume
