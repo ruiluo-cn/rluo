@@ -9,11 +9,11 @@
 locale                   : "CN"
 title                    : "Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zhiri Tang"
+name                     : &name "Rui Luo"
 description              : &description "Ph.D Student"
-url                      : https://gerintang.github.io/ztang/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ruiluo-cn.github.io/rluo/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "github.com/GerinTang/ztang.github.io"
+repository               : "https://ruiluo-cn.github.io/rluo/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhiri (Gerin) Tang"
-  avatar           : "DSC_0806.png"
-  bio              : "Ph.D Candidate in Computer Science"
-  location         : "Hong Kong"
+  name             : "Rui Luo"
+  avatar           : "IMG_9154.JPG"
+  bio              : "Ph.D Candidate in Microeletronics"
+  location         : "Macau"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=EA6cp5IAAAAJ&view_op=list_works&authuser=2"
-  email            : Gerin.Tang@my.cityu.edu.hk
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=UDiiT_wAAAAJ"
+  email            : rui.luo@whu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gerintang"
+  github           : "ruiluo"
   google_plus      :
   keybase          :
   instagram        :
