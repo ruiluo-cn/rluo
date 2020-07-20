@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
-### 2019.9-
+### 2020.9-
 Ph.D in Electrical and Computer Engineering, Macau, China  
 Supervisor: [Dr. Ka-Meng Lei](https://www.kmlei.site/)  
 Research Topic: Ultra-low power circuit design for IoT application  
 
-### 2017.9-2019.6
+### 2017.9-2020.6
 M.Sc in Microelectronics and Soild State Electronics, Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, Shanghai, China  
 Supervisor: [Prof. Lingyun Li](http://sourcedb.sim.cas.cn/cn/expert/201603/t20160302_4541236.html)  
 Research Topic: Mm-wave circuit design and RF measurement  
