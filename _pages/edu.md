@@ -11,7 +11,7 @@ redirect_from:
 
 
 ### 2020.9-
-Ph.D in Electrical and Computer Engineering, Macau, China  
+Ph.D in Electrical and Computer Engineering, University of Macau, Macau, China  
 Supervisor: [Prof. Ka-Meng Lei](https://www.kmlei.site/)  
 Research Topic: Ultra-low power circuit design for IoT application  
 
@@ -21,6 +21,6 @@ Supervisor: [Prof. Lingyun Li](http://sourcedb.sim.cas.cn/cn/expert/201603/t2016
 Research Topic: Mm-wave circuit design and RF measurement  
 
 ### 2013.9-2017.6
-B.Sc in Microelectronics Science and Engineering, Wuhan University, China  
+B.Sc in Microelectronics Science and Engineering, Wuhan University, Wuhan, China  
 Supervisor: [Prof. Jin He](http://physics.whu.edu.cn/info/1053/2154.htm)  
 Research Topic: Analog circuit design  
