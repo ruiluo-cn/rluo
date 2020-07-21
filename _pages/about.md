@@ -1,13 +1,12 @@
 ---
 permalink: /
 title: 
-excerpt: "About me"
+excerpt:"About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-### About me
 
 My name is **Rui Luo** (**骆睿** in Chinese) and I'm currently working towards the Ph.D degree at University of Macau. Prior to that, I received B.Sc degree from Wuhan University in 2017 and M.Sc degree from Shanghai Institute of Microsystem and Information Technology in 2020.
 
