@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN"
-title                    : "Personal Homepage"
+title                    : "Rui Luo's Homepage"
 title_separator          : "-"
 name                     : &name "Rui Luo"
 description              : &description "Ph.D Student"
