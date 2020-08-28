@@ -12,7 +12,7 @@ redirect_from:
 
 ### 2020.9-
 Ph.D in Electrical and Computer Engineering, University of Macau, Macau   
-Supervisor: [Prof. Ka-Meng Lei](http://www.amsv.um.edu.mo/people/kamenglei)  
+Supervisor: [Prof. Ka-Meng Lei](http://kmlei.site)  
 Research Topic: Ultra-low power circuit design for IoT applications  
 
 ### 2017.9-2020.6
